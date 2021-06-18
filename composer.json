@@ -1,5 +1,5 @@
 {
-    "name": "hifive-openapi-php-sdk",
+    "name": "niweisi/hifive-openapi-php-sdk",
     "description": "hifive openapi sdk",
     "type": "library",
     "license": "MIT",
